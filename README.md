@@ -1,4 +1,5 @@
 # SQL Sakila Database Analysis
+* Click here to view my [final code](SQL_HW_Code.sql)!
 
 ## Instructions
 
